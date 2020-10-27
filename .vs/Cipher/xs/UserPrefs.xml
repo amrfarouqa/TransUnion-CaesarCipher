@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5C151CCE-7E1B-4354-96E8-72255C94426D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Cipher PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cipher" expanded="True">
+            <Node name="Cipher" expanded="True">
+              <Node name="Fundamentals" expanded="True" />
+            </Node>
+            <Node name="Cipher.UnitTests" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

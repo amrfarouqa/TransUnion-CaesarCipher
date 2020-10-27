@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cipher", "Cipher\Cipher.csproj", "{5C151CCE-7E1B-4354-96E8-72255C94426D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cipher.UnitTests", "Cipher.UnitTests\Cipher.UnitTests.csproj", "{DC642B42-4260-4D57-B12C-97EC3BAF2EB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C151CCE-7E1B-4354-96E8-72255C94426D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C151CCE-7E1B-4354-96E8-72255C94426D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C151CCE-7E1B-4354-96E8-72255C94426D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C151CCE-7E1B-4354-96E8-72255C94426D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC642B42-4260-4D57-B12C-97EC3BAF2EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC642B42-4260-4D57-B12C-97EC3BAF2EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC642B42-4260-4D57-B12C-97EC3BAF2EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC642B42-4260-4D57-B12C-97EC3BAF2EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
